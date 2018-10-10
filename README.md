@@ -1,3 +1,5 @@
+Temporary fork until `kubectl drain` behavior is changed to allow pod deletion vs evict.  Changes are on branch release-1.9
+
 <img src="/docs/img/logo.jpg" width="500px" alt="kops logo">
 
 # kops - Kubernetes Operations
